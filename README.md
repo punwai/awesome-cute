@@ -2,7 +2,8 @@
 
 Just a learning exercise so i understand hardware better and design non-stupid architectures. CuTe DSL is really good. Everyone should try it.
 
-5/28/2025
+##### 5/28/2025
+
 [X] Initial Version without much performance tuning
 
 [X] Tiling + TMA to load tiles.
@@ -11,7 +12,7 @@ Just a learning exercise so i understand hardware better and design non-stupid a
 
 [X] Add pipelining to hide TMA bandwidth
 
-5/29/2025
+##### 5/29/2025
 [] Add Epilogue
 
 [] Tune Performance and get benchmarks
