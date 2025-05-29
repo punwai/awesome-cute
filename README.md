@@ -1,10 +1,15 @@
 ### Efficient GEMM implementation in CuTe DSL for the Hopper GPU
 
 [X] Initial Version without much performance tuning
+
 [X] Tiling + TMA to load tiles.
+
 [X] Ensure Swizzled SMEM access for Tensor Cores
+
 [X] Add pipelining to hide TMA bandwidth
+
 [] Add Epilogue
+
 [] Tune Performance and get benchmarks
 
 #### Setup:
