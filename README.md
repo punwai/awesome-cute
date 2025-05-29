@@ -20,10 +20,8 @@ Just a learning exercise so i understand hardware better and design non-stupid a
 
 [] Allow arbitrary matrices that does not fit the tiling
 
-##### 5/30/2025
+##### 5/30/2025-???
 [] FA-3 implementation in CuTe
-
-##### 5/31/2025
 [] NSA implementation in CuTe
 
 #### Setup:
